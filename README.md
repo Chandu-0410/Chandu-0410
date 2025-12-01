@@ -31,11 +31,11 @@ Tools:
  Portfolio Website
 A personal website to showcase my projects and skills.  
 Live Demo: https://chandu-0410.github.io/Portfolio/
-Repo:
+Repo:https://github.com/Chandu-0410/Portfolio
 
 ---
 
-### ⭐ **Weather App**
+Weather App
 A simple weather application using an API.  
 🔗 *Repo:* (add GitHub link)
 
