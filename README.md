@@ -44,9 +44,7 @@ Repo:
  Contact Me
 - Email:your-lakshmichandanatanniru@gmail.com
 - LinkedIn:www.linkedin.com/in/lakshmi-chandana-tanniru-076055393
-- Portfolio Website:
+- Portfolio Website:https://chandu-0410.github.io/Portfolio/
 
----
-
-## 🤝 Let's Connect!
+Let's Connect!
 Feel free to check out my projects and reach out anytime!
