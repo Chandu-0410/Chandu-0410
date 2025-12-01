@@ -33,24 +33,18 @@ A personal website to showcase my projects and skills.
 Live Demo: https://chandu-0410.github.io/Portfolio/
 Repo:https://github.com/Chandu-0410/Portfolio
 
----
-
 Weather App
 A simple weather application using an API.  
-🔗 *Repo:* (add GitHub link)
+Repo:https://chandu-0410.github.io/WeatherApp/
 
----
-
-### ⭐ **To-Do App**
+To-Do App
 A basic to-do list with add/delete functionality.  
-🔗 *Repo:* (add GitHub link)
+Repo:
 
----
-
-## 📫 Contact Me
-- Email: **your-email@example.com**
-- LinkedIn: (optional)
-- Portfolio Website: (optional)
+ Contact Me
+- Email:your-lakshmichandanatanniru@gmail.com
+- LinkedIn:www.linkedin.com/in/lakshmi-chandana-tanniru-076055393
+- Portfolio Website:
 
 ---
 
